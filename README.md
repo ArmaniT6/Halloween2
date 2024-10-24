@@ -1,0 +1,2 @@
+# Halloween 
+Här är ett enkelt python program som jag skapade för att lära till känna dig inklusivt andra människor. Programmet frågar användaren några frågor som "Vad är ditt favorit djur" på engelska vilket då användaren svarar på och om den har svarat "apa", "flodhäst" eller "häst" så kommer det ett unikt svar från programmet men om användaren svarar något helt annat kommer programmet att skriva "Vad skönt djur du har valt". Programmet var designat för att lära känna till folk
